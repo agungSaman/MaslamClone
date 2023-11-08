@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "290837752040",
+    "project_id": "maslam-f20e5",
+    "storage_bucket": "maslam-f20e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290837752040:android:a1baf55e96856fd288415d",
+        "android_client_info": {
+          "package_name": "com.maslam.maslambackendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290837752040-cc0d8fho68i44rpo0lhfnc6fp8prh73k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GL7DuI7aZBUiCV3zG6A2IHOHQiA-9_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290837752040-cc0d8fho68i44rpo0lhfnc6fp8prh73k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290837752040:android:e5d76c0d710b6d8388415d",
+        "android_client_info": {
+          "package_name": "com.maslam.maslamfrontendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290837752040-2j98t82hjnraalkp5bd2okguh1s4djci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maslam.maslamfrontendapp",
+            "certificate_hash": "dd483bd97ab0cd53b35e27e1dd11fe601ec01313"
+          }
+        },
+        {
+          "client_id": "290837752040-cc0d8fho68i44rpo0lhfnc6fp8prh73k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GL7DuI7aZBUiCV3zG6A2IHOHQiA-9_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290837752040-cc0d8fho68i44rpo0lhfnc6fp8prh73k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

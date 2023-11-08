@@ -1,0 +1,1 @@
+enum AttachmentUrlType { url, path }
